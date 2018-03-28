@@ -1,0 +1,22 @@
+IDEIAS SOLTAS
+
+-  Apresentar um QR ao lado do modelo do TLM para poder visualizar em tempo real num verdadeiro tlm.
+
+-  
+
+
+
+
+MELHORIAS 
+
+- Drag n' drop para as categorias na mockup.
+
+- O selector de imagem tem de as converter para uma medida standard
+
+- Como por o cliente (company) a selecionar apenas as imagens do proprio? 
+    Quando o cliente seleciona uma imagem, esta para alem de ser redimensionada deverá
+    ser renomeada incluindo o id do cliente (company). 
+- No modal para alterar imagens deverá aparecer um tab para imagens comuns e para imagens proprias. 
+    As imagens proprias serão selecionadas através do prefixo com o id da company.
+ - No 'tab' que apresenta as categorias
+    deverá também apresentar um tab com categorias proprias.
